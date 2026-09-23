@@ -57,3 +57,7 @@ Visualize the autocorrelation function and PSD.
 - Verify the generated waveform using Tabulation and Model Waveform.
 
 ## MODEL GRAPH
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/f1632806-00bd-4b24-86e8-798cf9b6ed3c" />
+
+RESULT: Thus the auto correlation and PSO are executed in SCILAB output is verified
+
